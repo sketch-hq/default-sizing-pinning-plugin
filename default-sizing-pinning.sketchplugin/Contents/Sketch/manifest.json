@@ -1,0 +1,22 @@
+{
+  "name": "Default Sizing and Pinning",
+  "identifier": "com.sketch.plugin.default-sizing-pinning",
+  "version": "1.0",
+  "description": "Set layers in top-level frames to default sizing and pinning",
+  "author": "Sketch",
+  "authorEmail": "paulo.pereira@sketch.com",
+  "commands": [
+    {
+      "name": "Set top-level frame contents to defaults",
+      "identifier": "com.sketch.plugin.default-sizing-pinning.command",
+      "script": "script.js",
+      "handlers": {
+        "run": "onRun"
+      }
+    }
+  ],
+  "menu": {
+    "title": "Default Sizing and Pinning",
+    "items": ["com.sketch.plugin.default-sizing-pinning.command"]
+  }
+}
