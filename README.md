@@ -12,5 +12,5 @@ The plugin can be run for the current page, or for all pages in the document.
 
 ## Installation
 
-1. Download the latest release from the [releases page](https://github.com/sketch-hq/default-sizing-pinning-plugin/releases/latest) and extract.
-2. Double-click the downloaded `.sketchplugin` file or drag it into Sketch.
+1. Download `default-sizing-pinning.sketchplugin.zip` from the [latest release](https://github.com/sketch-hq/default-sizing-pinning-plugin/releases/latest) and extract.
+2. Double-click the extracted `.sketchplugin` file, or drag it into Sketch.
