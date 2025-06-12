@@ -5,6 +5,7 @@
   "description": "Set layers in top-level frames to default sizing and pinning",
   "author": "Sketch",
   "authorEmail": "paulo.pereira@sketch.com",
+  "icon": "icon.png",
   "commands": [
     {
       "name": "Set top-level frame contents to defaults",
